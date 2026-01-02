@@ -22,12 +22,17 @@ Error handling, logging, and secure API design
 **🛠️ Tech Stack**
 
 Frontend: React.js, Axios, Bootstrap
+
 Backend: ASP.NET Core Web API, C#, Entity Framework Core, LINQ
+
 Database: SQL Server
+
 Authentication: JWT (JSON Web Token)
 
 **Folder Structure**
 
 Login-and-Registeration-Page-using-React-and-.Net-Web-API/
+
  ├── frontend/   # React app
+ 
  └── backend/    # ASP.NET Core Web API
