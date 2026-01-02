@@ -2,7 +2,9 @@
 
 A full‑stack authentication system built with React.js  (frontend) and ASP.NET Core Web API (backend), integrated with SQL Server for secure data storage.
 This project demonstrates user registration, login, JWT authentication, and role‑based access control, following clean architecture and best practices.
+
 **🔑 Features**
+
 User registration with validation and hashed passwords
 
 User login with JWT token generation
