@@ -1,0 +1,7 @@
+2025-12-27 20:07:28 - Login Exception:-Object reference not set to an instance of an object.
+2025-12-27 20:10:57 - Login Exception:-There is no row at position 1.
+==============================2025-12-27 20:13:23 - Login Exception:-Object reference not set to an instance of an object.
+==============================2025-12-27 22:14:48 - Login Exception:-Procedure or function 'USP_LOGIN' expects parameter '@Email', which was not supplied.
+==============================2025-12-27 22:15:49 - Login Exception:-Procedure or function 'USP_LOGIN' expects parameter '@Email', which was not supplied.
+==============================2025-12-27 22:17:07 - Login Exception:-Procedure or function 'USP_LOGIN' expects parameter '@Email', which was not supplied.
+==============================2025-12-27 22:18:08 - Login Exception:-Procedure or function 'USP_LOGIN' expects parameter '@Email', which was not supplied.
